@@ -1,4 +1,5 @@
 # PyChat 2K17
+#Eliot D.
 
 import random
 
@@ -6,10 +7,14 @@ botname = "Chatterbot"
 
 
 def start():
-    pass
-
+    print("╦ ╦╔═╗╦  ╦  ╔═╗┬")
+    print("╠═╣║╣ ║  ║  ║ ║│")
+    print("╩ ╩╚═╝╩═╝╩═╝╚═╝o")
+    
 def end():
-    pass
+    print("╔═╗╔═╗╔═╗╔╦╗╔╗ ╦ ╦╔═╗┬")
+    print("║ ╦║ ║║ ║ ║║╠╩╗╚╦╝║╣ │")
+    print("╚═╝╚═╝╚═╝═╩╝╚═╝ ╩ ╚═╝o")
 
 def confirm(question):
     while True:
@@ -41,8 +46,8 @@ def get_random_response():
     return random.choice(responses)
 
 def get_random_response_family():
-    responses = ["Tell me more about your family.", 
-                 "Your family sounds interesting.",
+    responses = ["Tell me about your family.", 
+                 "Family is an iteresting concept!",
                  "I never had a family..."]
 
     return random.choice(responses)
@@ -63,8 +68,7 @@ def get_random_response_question():
 
 def get_random_response_joke():
     responses = ["What do you call an elephant fused with a rhino?.\n" + 
-                 botname + ": El-if-i-no!", "Did you hear about the hungry clock?.\n" +
-                 botname + ":  It went back four seconds."]
+                 botname + ": El-if-i-no!", "Did you hear about the hungry clock?.\n" + botname + ": It went back four seconds.", "What do you call a laughing jar of mayonnaise?.\n" + botname + ": LMAYO"]
 
     return random.choice(responses)
 
