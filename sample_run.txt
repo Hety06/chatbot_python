@@ -1,0 +1,30 @@
+Chatterbot: Hello. I'm Chatterbot.
+Chatterbot: What's your name?
+User:  Eliot
+Chatterbot: Hello Eliot what would you like to talk about?
+Eliot:  Tell me a joke
+Chatterbot: What do you call a laughing jar of mayonnaise?.
+Chatterbot: LMAYO
+Eliot:  haha
+Chatterbot: haha!
+Eliot:  where are you from?
+Chatterbot: I don't get what you're asking.
+Eliot:  I'm asking where did you originate??
+Chatterbot: I can't answer that.
+Eliot:  oh ok
+Chatterbot: That surely is something, huh.
+Eliot:  yeah it is
+Chatterbot: That's a stupid thing to talk about.
+Eliot:  ok let's change the subject
+Chatterbot: Uh, huh.
+Eliot:  do you have a mother?
+Chatterbot: I never had a family...
+Eliot:  that sucks
+Chatterbot: That surely is something, huh.
+Eliot:  Do you know Mr. Cooper?
+Chatterbot: Mr. Cooper has the dankest memes.
+Eliot:  haha that;s right
+Chatterbot: I'm glad you found that funny!
+Eliot:  bye
+Chatterbot: You're leaving so soon?
+Would you like to chat again? (y/n) n
