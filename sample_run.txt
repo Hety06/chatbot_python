@@ -1,3 +1,6 @@
+╦ ╦╔═╗╦  ╦  ╔═╗┬
+╠═╣║╣ ║  ║  ║ ║│
+╩ ╩╚═╝╩═╝╩═╝╚═╝o
 Chatterbot: Hello. I'm Chatterbot.
 Chatterbot: What's your name?
 User:  Eliot
@@ -28,3 +31,6 @@ Chatterbot: I'm glad you found that funny!
 Eliot:  bye
 Chatterbot: You're leaving so soon?
 Would you like to chat again? (y/n) n
+╔═╗╔═╗╔═╗╔╦╗╔╗ ╦ ╦╔═╗┬
+║ ╦║ ║║ ║ ║║╠╩╗╚╦╝║╣ │
+╚═╝╚═╝╚═╝═╩╝╚═╝ ╩ ╚═╝o
